@@ -1,3 +1,6 @@
 [submodule "Perf_ObservNode/BCC"]
 	path = Perf_ObservNode/BCC
 	url = https://github.com/iovisor/bcc.git
+[submodule "Perf_ObservNode/BPFtrace"]
+	path = Perf_ObservNode/BPFtrace
+	url = https://github.com/iovisor/bpftrace.git
