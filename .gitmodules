@@ -4,3 +4,15 @@
 [submodule "Perf_ObservNode/BPFtrace"]
 	path = Perf_ObservNode/BPFtrace
 	url = https://github.com/iovisor/bpftrace.git
+[submodule "Pers_TrainNode/spkane"]
+	path = Pers_TrainNode/spkane
+	url = https://gist.github.com/spkane/9dac69221c288690ae40f07f5a82ea62
+[submodule "Pers_TrainNode/griggheo"]
+	path = Pers_TrainNode/griggheo
+	url = https://github.com/griggheo/live-training-containers-20190904/
+[submodule "Pers_TrainNode/pdeitel"]
+	path = Pers_TrainNode/pdeitel
+	url = https://github.com/pdeitel/PythonFullThrottle
+[submodule "Pers_TrainNode/noahgift"]
+	path = Pers_TrainNode/noahgift
+	url = https://github.com/noahgift/container-revolution-devops-microservices
