@@ -1,1 +1,1 @@
-# AA_Git_GenPrivRepo_Master
+# AA_Git_GenPubRepo_Master
